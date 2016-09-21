@@ -7,10 +7,10 @@ body {
   display: flex;
   align-items: center;
   font-family: "Montserrat", sans-serif;
-  padding: 10% 0 0 40%; }
+  padding: 20% 0 0 40%; }
 
 #boxInside {
-  background: #00BCD4;
+  background: #00BCD9;
   border-radius: 100%;
   justify: center;
   padding: 5em 2em; }
